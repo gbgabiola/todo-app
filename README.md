@@ -1,6 +1,6 @@
 # Simple Todo App
 
-A todo list to keep track everything in one place. Just list all the tasks, so you get it out of your head and enjoy your peace of mind along the way.
+A todo application to keep track everything in one place. Just list all the tasks, so you get it out of your head and enjoy your peace of mind along the way.
 
 
 ## Built With
